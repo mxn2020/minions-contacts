@@ -1,6 +1,12 @@
 ---
 name: minions-contacts
-description: People, organizations, and contact channels
+id: OC-0114
+version: 1.0.0
+description: "People, organizations, and contact channels"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-contacts — Agent Skills
