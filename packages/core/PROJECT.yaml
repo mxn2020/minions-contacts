@@ -1,0 +1,8 @@
+name: "@minions-contacts/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-contacts-workspace
+description: "People, organizations, and contact channels"
+priority: high
+deploy_url: null
+tags: null

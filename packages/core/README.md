@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-contacts/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-contacts/sdk
 
 People, organizations, and contact channels

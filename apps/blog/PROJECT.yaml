@@ -1,0 +1,8 @@
+name: minions-contacts-blog
+project_scope: child
+child_type: blog
+parent_project: minions-contacts-workspace
+description: Standard compliance definition for minions-contacts-blog
+priority: high
+deploy_url: null
+tags: null

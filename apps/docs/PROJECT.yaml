@@ -1,0 +1,8 @@
+name: minions-contacts-docs
+project_scope: child
+child_type: docs
+parent_project: minions-contacts-workspace
+description: Standard compliance definition for minions-contacts-docs
+priority: high
+deploy_url: null
+tags: null

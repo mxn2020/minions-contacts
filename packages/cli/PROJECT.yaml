@@ -1,0 +1,8 @@
+name: "@minions-contacts/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-contacts-workspace
+description: "CLI for minions-contacts — People, organizations, and contact channels"
+priority: high
+deploy_url: null
+tags: null
